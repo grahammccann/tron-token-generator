@@ -2,13 +2,15 @@
 
 # TRON Token Generator
 
-### Create TRC-20 tokens on the TRON blockchain in minutes.
+### Create professional TRC-20 tokens on the TRON blockchain in minutes.
 
-[![Website](https://img.shields.io/badge/Website-Live-success?style=for-the-badge)](https://tron-token-generator.com)
-![TRON](https://img.shields.io/badge/TRON-TRC--20-red?style=for-the-badge)
-![No Code](https://img.shields.io/badge/No-Code-blue?style=for-the-badge)
-![Smart Contracts](https://img.shields.io/badge/Smart-Contracts-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+[![Website](https://img.shields.io/badge/🌐_Website-www.tron--token--generator.com-E50914?style=for-the-badge)](https://www.tron-token-generator.com)
+![TRON](https://img.shields.io/badge/TRON-TRC--20-E50914?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-TRON-black?style=for-the-badge)
+![No Code](https://img.shields.io/badge/No-Code-Required-0066FF?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-2EA043?style=for-the-badge)
+
+*A simple, secure and beginner-friendly platform for launching TRC-20 tokens.*
 
 </div>
 
@@ -16,90 +18,88 @@
 
 ## Overview
 
-TRON Token Generator is a no-code platform for creating TRC-20 tokens on the TRON blockchain.
+TRON Token Generator is a no-code platform that enables anyone to deploy professional TRC-20 tokens on the TRON blockchain without writing smart contracts or learning blockchain development.
 
-Launch professional blockchain tokens without writing smart contracts or deploying Solidity code manually. Configure token parameters, deploy securely and retain ownership of the deployed contract.
-
-Website:
-
-**https://tron-token-generator.com**
+Whether you're launching a community token, gaming asset, utility token or experimenting with Web3, the platform provides a streamlined deployment process while allowing you to retain ownership of your deployed contract.
 
 ---
 
 ## Features
 
 - Create TRC-20 tokens in minutes
-- No coding required
+- No programming knowledge required
 - Custom token name and symbol
 - Adjustable total supply
-- Configurable decimals
+- Configurable decimal precision
 - Optional mintable functionality
 - Optional burnable functionality
-- Secure blockchain deployment
 - Wallet-based transaction signing
-- Full ownership of deployed smart contracts
-- Beginner-friendly workflow
+- Secure blockchain deployment
+- Transparent one-time pricing
+- Full ownership of deployed contracts
 
 ---
 
-## Why TRON?
+## Supported Token Configuration
 
-The TRON network offers:
-
-- Fast confirmation times
-- Low transaction costs
-- Large global ecosystem
-- High throughput
-- Excellent wallet support
-- Well-established TRC-20 token standard
-
----
-
-## Typical Use Cases
-
-- Utility tokens
-- Community projects
-- Gaming assets
-- Reward systems
-- DAO governance
-- Web3 applications
-- Educational projects
-- Internal business tokens
-
----
-
-## Deployment Process
-
-1. Connect a supported TRON wallet.
-2. Enter token details.
-3. Configure optional parameters.
-4. Review deployment.
-5. Sign the transaction.
-6. Token deployed to the blockchain.
-
----
-
-## Token Configuration
-
-| Feature | Supported |
-|----------|-----------|
-| Name | ✅ |
-| Symbol | ✅ |
+| Setting | Supported |
+|----------|:---------:|
+| Token Name | ✅ |
+| Token Symbol | ✅ |
+| Initial Supply | ✅ |
 | Decimals | ✅ |
-| Supply | ✅ |
 | Mintable | ✅ |
 | Burnable | ✅ |
-| Owner Address | ✅ |
+| Contract Ownership | ✅ |
+
+---
+
+## How It Works
+
+1. Connect a supported TRON wallet.
+2. Enter your token details.
+3. Choose optional token features.
+4. Review the deployment summary.
+5. Approve the blockchain transaction.
+6. Your TRC-20 token is deployed to the TRON network.
+
+---
+
+## Why Choose TRON?
+
+The TRON blockchain has become one of the world's most popular networks for digital assets due to its:
+
+- Fast transaction confirmations
+- Low network fees
+- Mature wallet ecosystem
+- High throughput
+- Reliable TRC-20 token standard
+- Large global user base
+
+---
+
+## Popular Use Cases
+
+- Community tokens
+- Utility tokens
+- Web3 projects
+- Gaming currencies
+- DAO governance
+- Loyalty programmes
+- Creator economies
+- Educational blockchain projects
 
 ---
 
 ## Security
 
-- Wallet signatures
-- User retains ownership
-- No private keys stored
+Security is a priority throughout the deployment process.
+
+- Wallet-authorised transactions
+- No private key storage
 - Direct blockchain deployment
-- Transparent token configuration
+- User retains contract ownership
+- Transparent deployment configuration
 
 ---
 
@@ -107,42 +107,53 @@ The TRON network offers:
 
 ### Is coding required?
 
-No.
+No. The platform is designed for both beginners and experienced blockchain users.
+
+---
 
 ### Which blockchain is supported?
 
 TRON.
 
-### What token standard is used?
+---
+
+### Which token standard is used?
 
 TRC-20.
 
-### Who owns the smart contract?
+---
 
-The connected wallet that deploys the contract.
+### Who owns the deployed smart contract?
 
-### Can additional tokens be minted?
+The wallet used during deployment remains the owner of the deployed contract.
+
+---
+
+### Can I mint additional tokens later?
 
 Yes, if mintable functionality is enabled during deployment.
 
+---
+
 ### Can tokens be burned?
 
-Yes, if burnable functionality is enabled.
+Yes, when burnable functionality has been enabled.
 
 ---
 
 ## Roadmap
 
-- Improved deployment analytics
-- Additional wallet support
-- Token verification tools
+- Additional deployment options
+- Enhanced token analytics
 - Explorer integrations
-- Enhanced deployment history
-- Additional token utilities
+- Expanded wallet compatibility
+- Improved deployment history
+- Additional token management tools
+- New blockchain support
 
 ---
 
-## Topics
+## Repository Topics
 
 ```
 tron
@@ -161,12 +172,14 @@ no-code
 
 ## Disclaimer
 
-Creating blockchain tokens does not guarantee value, liquidity or adoption. Users are responsible for complying with all applicable laws and regulations in their jurisdiction.
+This repository is provided for educational and informational purposes.
+
+Creating or deploying blockchain tokens does not guarantee value, liquidity, exchange listings or adoption. Users are solely responsible for complying with all applicable laws, regulations and tax obligations within their jurisdiction.
 
 ---
 
 <div align="center">
 
-Built for the TRON ecosystem.
+**Built for the TRON ecosystem.**
 
 </div>
